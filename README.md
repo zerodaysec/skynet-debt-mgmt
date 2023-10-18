@@ -1,6 +1,6 @@
 # skynet-debt-mgmt
 
-![](https://cdn.n3rd-media.com/gfx/general/debt-mgmt.png)
+![Debt Management](https://cdn.n3rd-media.com/gfx/general/debt-mgmt.png)
 
 ## TODO
 
